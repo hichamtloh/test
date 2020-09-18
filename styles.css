@@ -1,0 +1,99 @@
+.body
+{
+		font-family:'Times New Roman', Courier, Verdana;
+		font-weight:bold;
+		padding:5px;
+		margin:5px;
+		background-color:#48D1CC
+		
+}
+.div
+{
+	width:100%;
+	background-color:#808080;
+}
+div ul
+{
+	padding:0px;
+	margin:0px;
+	overflow:hidden
+}
+div li
+{
+	list-style-type:none;
+	float:left;
+}
+div a 
+{
+		display:inline-block;
+		text-decoration:none;
+		padding:20px;
+		
+}	
+.html:hover
+{
+	border-top:5px solid #FF4500;
+	background-color:#DAA520;
+	opacity: 0.6;
+}
+
+.css:hover
+{
+	border-top:5px solid #DA70D6;
+	background-color:#FFD700;
+	opacity: 0.6;
+}
+
+.javascript:hover
+{
+		
+	border-top:5px solid #000000;
+	background-color:#ADFF2F;
+	opacity: 0.6;
+}
+.contact:hover
+{
+	border-top:5px solid #800080;
+	background-color:#FFA500;
+    opacity: 0.6;	
+}
+.hicham
+{
+	background:url('pic/background.JPG') no-repeat center center fixed;
+	background-size:cover;
+}
+.hawimo
+{
+	width:400px;
+	margin:auto;
+	overflow:hidden;
+	padding: 1rem;
+	text-align:center;
+	background-color:#FFF;
+}
+.fb
+{
+	padding: 0.5rem 2rem;
+	color:#FFF;
+	background-color:#426782;
+	border:none;
+	border-radius: 5px;
+}
+.btn
+{
+	padding:1rem;
+	background-color:#00FA9A;
+	width:50%;
+	border-radius:5px;
+}
+.bbb
+{
+	background:url('pic/bgd.jpg')no-repeat center center fixed;
+	background-size:cover;
+	text-align:center;
+
+}
+.container
+{
+	
+}
